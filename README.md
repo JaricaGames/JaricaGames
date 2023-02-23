@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone👋, I'm Juan Antonio Rivero Campos</h1>
 <h3 align="center">I'm looking for an opportunity as a Android developer.</h3>
 
-- 🔭 I’m currently working on **Gasolina de España**
+- 🔭 I’m currently working on **Gasolina barata**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
